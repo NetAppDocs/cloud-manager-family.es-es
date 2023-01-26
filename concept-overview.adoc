@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: concept-overview.html 
+keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu 
+summary: Cloud Manager ya es BlueXP. BlueXP permite crear, proteger y gobernar sus datos multicloud híbridos desde un único plano de control. 
+---
+= Bienvenido a BlueXP de NetApp
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Cloud Manager ahora se llama BlueXP. BlueXP permite crear, proteger y gobernar sus datos multicloud híbridos desde un único plano de control.
+
+
+
+== Experiencia de gestión unificada
+
+BlueXP le permite gestionar todos sus activos de almacenamiento y datos desde una única interfaz.
+
+Puede usar BlueXP para crear y administrar almacenamiento en nube (por ejemplo, Cloud Volumes ONTAP y Azure NetApp Files), utilizar servicios de datos (por ejemplo, Cloud Backup y Cloud Data Sense) y controlar muchos dispositivos de almacenamiento local y periférico.
+
+* https://cloud.netapp.com["Obtenga más información en el sitio Web de BlueXP"^]
+* https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["Comience con BlueXP"^]
+
+
+
+
+== Nuevo menú de navegación
+
+En el menú de navegación de BlueXP, los servicios de datos se organizan ahora por categorías y se nombran según su funcionalidad. Por ejemplo, puede acceder a Cloud Backup en la categoría *Protección* y seleccionando *copia de seguridad y recuperación*.
+
+image:screenshot-navigation-menu.png["Captura de pantalla del menú de navegación de BlueXP que muestra categorías como almacenamiento y salud."]
+
+
+
+== Integraciones de nuevos productos
+
+* Ahora puede gestionar más sistemas de almacenamiento en las instalaciones, como E-Series y StorageGRID.
+* Ahora puede usar servicios de datos que antes solo estén disponibles como servicio independiente con una interfaz de usuario independiente, como Digital Advisor (anteriormente Active IQ).
+
+
+*Más información*
+
+* https://docs.netapp.com/us-en/cloud-manager-e-series/index.html["Gestione los sistemas de almacenamiento E-Series"^]
+* https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html["Gestione los sistemas de almacenamiento StorageGRID"^]
+* https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["Obtenga información sobre la integración de Digital Advisor"^]
+
