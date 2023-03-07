@@ -40,12 +40,14 @@ image:screenshot-navigation-menu.png["Captura de pantalla del menú de navegaci�
 
 == Integraciones de nuevos productos
 
+* Ahora puede gestionar los bloques de Amazon S3 en las cuentas de AWS donde está instalado Connector.
 * Ahora puede gestionar más sistemas de almacenamiento en las instalaciones, como E-Series y StorageGRID.
 * Ahora puede usar servicios de datos que antes solo estén disponibles como servicio independiente con una interfaz de usuario independiente, como Digital Advisor (anteriormente Active IQ).
 
 
 *Más información*
 
+* https://docs.netapp.com/us-en/bluexp-s3-storage/index.html["Gestión de bloques de Amazon S3"^]
 * https://docs.netapp.com/us-en/cloud-manager-e-series/index.html["Gestione los sistemas de almacenamiento E-Series"^]
 * https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html["Gestione los sistemas de almacenamiento StorageGRID"^]
 * https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["Obtenga información sobre la integración de Digital Advisor"^]

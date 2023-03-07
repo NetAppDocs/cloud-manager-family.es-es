@@ -231,4 +231,9 @@
   <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">Se trata de un ID generado por el sistema que se asigna a su correo electrónico. En la página *NSS Management*, puede mostrar su correo electrónico desde <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> de windows</block>
   <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">Si alguna vez necesita actualizar sus tokens de credenciales de inicio de sesión, también hay una opción *Actualizar credenciales* en la <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> de windows</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Con esta opción se le solicita que vuelva a iniciar sesión. Tenga en cuenta que el token de estas cuentas caduca después de 90 días. Se enviará una notificación para avisarle de ello.</block>
+  <block id="cf6a3994dac804af910024cf740e14ac" category="list-text">Ahora puede gestionar los bloques de Amazon S3 en las cuentas de AWS donde está instalado Connector.</block>
+  <block id="72098f7f145b12a125b92539edd37f4a" category="inline-link">Gestión de bloques de Amazon S3</block>
+  <block id="8a4a49cb4536baac7f58e0eb6e2dac29" category="list-text"><block ref="8a4a49cb4536baac7f58e0eb6e2dac29" category="inline-link-rx"></block></block>
+  <block id="d79294e72dc3584cc12c98a7a931315d" category="sidebar">Almacenamiento Amazon S3</block>
+  <block id="4b271c8c28b8ccb8e638e54186acac01" category="sidebar">Descubra y gestione los bloques de Amazon S3 en sus cuentas de AWS.</block>
 </blocks>

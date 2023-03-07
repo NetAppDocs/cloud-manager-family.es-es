@@ -2,7 +2,7 @@
 settings:
   name: BlueXP
   platform: cloud
-  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series
+  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series,bluexp-s3-storage
   internal:
     pdf_enabled: false
   prod:
@@ -58,6 +58,11 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
     summary: Utilice todas las funcionalidades de ONTAP como servicio nativo gestionado
       por AWS.
+    tags: all, storage, aws
+  - title: Almacenamiento Amazon S3
+    icon: "./media/icon-s3.png"
+    url: https://docs.netapp.com/us-en/bluexp-s3-storage/index.html
+    summary: Descubra y gestione los bloques de Amazon S3 en sus cuentas de AWS.
     tags: all, storage, aws
   - title: API
     icon: "./media/icon-api.png"
